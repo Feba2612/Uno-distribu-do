@@ -1,15 +1,5 @@
 # Uno Distribuído
 
-## Wiki do Projeto
-
-A documentação do projeto está disponível em páginas separadas dentro da pasta `wiki/`.
-
-- [Wiki Home](wiki/Home.md)
-- [Arquitetura](wiki/Arquitetura.md)
-- [Comunicação](wiki/Comunicacao.md)
-- [Testes](wiki/Testes.md)
-- [Diagrama de Sequência](wiki/DiagramaSequencia.md)
-
 ## Visão Geral
 
 Uno Distribuído é um protótipo de jogo de Uno que explora uma arquitetura peer-to-peer com controle de estado por contrato em uma aplicação desktop moderna. O objetivo é permitir que vários jogadores participem de uma partida distribuída usando Electron, React e TypeScript, com troca de mensagens em tempo real via WebSocket.
